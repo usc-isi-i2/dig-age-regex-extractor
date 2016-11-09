@@ -1,0 +1,2 @@
+digExtractor>=0.3.2
+digRegexExtractor>=0.3.0
